@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cube2
+  - cube1
+  - cube
+  - tyre
+  - 7holes
+  - 5holes_bkwd
+  - 7holes_hztl
+  - seatholder
+  - handle
+  - 7holes_frwd
+  - 5holes_hztl
+  - 7holes_frwd agay
+  - 5holes_hztl agay
+  - 5holes_bkwd agay
+  - 5holes_bent agay
+  - 5holes_bent
+  - 7holes_hztl agay
+  - seat
+  - MagnetTarget
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: btn_bg
+    uniqueID: 736746169
+    locked: 0
